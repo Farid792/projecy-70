@@ -1,1 +1,2 @@
-# projecy-70
+# book-santa-stage-1
+The Book Donation app
